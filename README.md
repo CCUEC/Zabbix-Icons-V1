@@ -1,1 +1,0 @@
-# Zabbix-Icons-V1
